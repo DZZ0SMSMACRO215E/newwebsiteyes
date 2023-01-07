@@ -7,7 +7,7 @@
  	<p> <font color="orange"> JUST LOOK AT HIM</font> </p>
 
 
-	<img src="όνομα_εικόνας.jpg" width="600px" height="550px" />
+	<img src="https://static.wikia.nocookie.net/youtube/images/d/dd/Micheal_P.jpg/revision/latest?cb=20180721035653" width="600px" height="550px" />
 
 <a href=""> Τι θέλω να λέει αντί για το url </a>	
 
