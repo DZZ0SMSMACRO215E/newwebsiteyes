@@ -9,8 +9,7 @@
 
 	<img src="όνομα_εικόνας.jpg" width="600px" height="550px" />
 
-<a href="![image](https://user-images.githubusercontent.com/121189607/211166138-ad6fac74-dd19-4408-ab23-c316cecce03d.png)
-"> Τι θέλω να λέει αντί για το url </a>	
+<a href=""> Τι θέλω να λέει αντί για το url </a>	
 
 
 </html> 
