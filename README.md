@@ -11,34 +11,13 @@
 	
 <html> 
 	<table style="border:1px solid green">
-		<tr> Φτιάχνω γραμμή στον πίνακα </tr>
-		<td>Φτιάχνω ένα κελί στον πίνακα </td>
-
-		<td> 	<img src="https://εικόνα.png" width="30px" height="30px"/></td>
-	</table> 
-</html>
-<html> 
-	<table style="border:1px solid green">
 		<tr>
-			<td> who is micheal p? </td><td> <img src="https://εικόνα.png" width="30px" height="30px"/></td>
+			<td> who is micheal p? </td>
 			<td> a person. </td>
 			<td> ok </td>
 		</tr>
 		
 	</table> 
 </html>	
-<html> 
-	<table style="border:1px solid green">
-		<tr> Φτιάχνω γραμμή στον πίνακα </tr>
-		<td>Φτιάχνω ένα κελί στον πίνακα </td>
 
-		<td> 	<img src="https://εικόνα.png" width="30px" height="30px"/></td>
-	</table> 
-</html>
-
-
-<a href=""> Τι θέλω να λέει αντί για το url </a>	
-
-
-</html> 
 
